@@ -79,7 +79,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Aizhamal, a front-end developer from Kyrgyzstan. I love creating web applications with React, and I'm currently studying NodeJS. I've been working for Scandiweb since July 2022.",
+    bio: "Hello! I'm Aizhamal, a front-end developer from Kyrgyzstan. I love creating web applications with React.",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Redux', 'Angular', 'Typescript', 'git', 'github', 'npm', 'Custom React Hooks','JSON', 'API Requests', 'Bootstrap','Material UI', 'Sass', 'Scss Modules', 'Tailwind', 'html5', 'css3', 'Figma'],
